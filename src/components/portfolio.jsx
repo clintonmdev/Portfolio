@@ -37,7 +37,7 @@ class Portfolio extends React.Component {
                         <h2 className="w-title">E-Commerce Website</h2>
                         <div className="w-more">
                           <span className="w-ctegory">
-                            Progresive Web application with CSR functionalities built using DRF on the backend and ReactJS on the frontend end. Optimisation of the user's experience with adapted above the fold rendering technics.
+                            Progresive Web application with CSR functionalities built using DRF on the backend and ReactJS on the frontend end. Optimisation of the user's experience with adapted above the fold rendering techniques.
                           </span>
                         </div>
                       </div>
@@ -90,7 +90,7 @@ class Portfolio extends React.Component {
                         <h2 className="w-title">Augmented Reality Mobile Application</h2>
                         <div className="w-more">
                           <span className="w-ctegory">
-                            Project targeting Android systens with the ability to translate in real time Hieroglyph.
+                            Project targeting Android systems with the ability to translate in real time Hieroglyph.
                           </span>
                           {/*} / <span className="w-date">18 Sep. 2018</span>*/}
                         </div>

@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bd9683bb5315b0b915e5a6747848ec42",
+    "revision": "488c9588ce8a842fd4a68c939cce13a6",
     "url": "/Portfolio/index.html"
   },
   {
-    "revision": "68ec08ee5e7403decafe",
+    "revision": "4a7c3233de63ece74a56",
     "url": "/Portfolio/static/css/2.46018156.chunk.css"
   },
   {
-    "revision": "000c7f5836bd391052eb",
+    "revision": "a27a15f952194c873e45",
     "url": "/Portfolio/static/css/main.60e3ba77.chunk.css"
   },
   {
-    "revision": "68ec08ee5e7403decafe",
-    "url": "/Portfolio/static/js/2.1c0ff3bc.chunk.js"
+    "revision": "4a7c3233de63ece74a56",
+    "url": "/Portfolio/static/js/2.dc8b016c.chunk.js"
   },
   {
     "revision": "a80b0387134ff115e52515fc5fa21755",
-    "url": "/Portfolio/static/js/2.1c0ff3bc.chunk.js.LICENSE.txt"
+    "url": "/Portfolio/static/js/2.dc8b016c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "000c7f5836bd391052eb",
-    "url": "/Portfolio/static/js/main.1c5e59b3.chunk.js"
+    "revision": "a27a15f952194c873e45",
+    "url": "/Portfolio/static/js/main.59849f29.chunk.js"
   },
   {
     "revision": "b83a37198ba343383876",
     "url": "/Portfolio/static/js/runtime-main.e440ee5a.js"
   },
   {
-    "revision": "0030ec634d437f3c8ab3e8f14c7eec4f",
-    "url": "/Portfolio/static/media/Hieroglyphs.0030ec63.jpg"
+    "revision": "f1d7305724b7cbdda94339375cfc9532",
+    "url": "/Portfolio/static/media/Hieroglyphs.f1d73057.jpg"
   },
   {
-    "revision": "85d370dcdcdcb47995459a8b184939a3",
-    "url": "/Portfolio/static/media/Laptop2.85d370dc.jpg"
+    "revision": "a24decb4ac1bfeed74c937cb5de2bdb0",
+    "url": "/Portfolio/static/media/Laptop2.a24decb4.jpg"
   },
   {
-    "revision": "67af05e12311bac06327b43ca31e166b",
-    "url": "/Portfolio/static/media/earth.67af05e1.jpg"
+    "revision": "ad7873c9b22898214c94d86442df1418",
+    "url": "/Portfolio/static/media/earth.ad7873c9.jpg"
   },
   {
     "revision": "674f50d287a8c48dc19ba404d20fe713",
@@ -76,12 +76,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Portfolio/static/media/ionicons.621bd386.svg"
   },
   {
-    "revision": "8a993a5dea30b9eab8d1f05c75fef6bc",
-    "url": "/Portfolio/static/media/laptop.8a993a5d.jpg"
-  },
-  {
-    "revision": "bd80794fddbffb4031fab537cc898680",
-    "url": "/Portfolio/static/media/myImage.bd80794f.png"
+    "revision": "2d06302b811221f9408a9f26e20af2d3",
+    "url": "/Portfolio/static/media/laptop.2d06302b.jpg"
   },
   {
     "revision": "aa9d6bdf267c30e67139306f0bac12cb",

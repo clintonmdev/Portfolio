@@ -124,7 +124,7 @@ class Contact extends React.Component {
                               rel="noopener noreferrer"
                             >
                               <span className="ico-circle">
-                                <i className="ion-social-github"></i>
+                                <i className="ion-social-github"/>
                               </span>
                             </a>
                           </li>
@@ -135,7 +135,7 @@ class Contact extends React.Component {
                               rel="noopener noreferrer"
                             >
                               <span className="ico-circle">
-                                <i className="ion-social-linkedin" ></i>
+                                <i className="ion-social-linkedin" />
                               </span>
                             </a>
                           </li>

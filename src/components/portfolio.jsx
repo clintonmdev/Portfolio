@@ -37,7 +37,7 @@ class Portfolio extends React.Component {
                         <h2 className="w-title">E-Commerce Website</h2>
                         <div className="w-more">
                           <span className="w-ctegory">
-                            Progresive Web application built using drf on the backend and React js on the frontend end with PostgreSQL as a database...
+                            Progresive Web application with CSR functionalities built using DRF on the backend and ReactJS on the frontend end. Optimisation of the user's experience with adapted above the fold rendering technics.
                           </span>
                         </div>
                       </div>
@@ -61,10 +61,10 @@ class Portfolio extends React.Component {
                   <div className="work-content">
                     <div className="row">
                       <div className="col-sm-8">
-                        <h2 className="w-title">Api application</h2>
+                        <h2 className="w-title">APIs application</h2>
                         <div className="w-more">
                           <span className="w-ctegory">
-                            Api build with django rest framework using TDD methodologies for better code quality and reliance...
+                            Developing APIs in Python with Django REST framework following agile methodologie's best practices
                           </span>{" "}
                         </div>
                       </div>
@@ -90,7 +90,7 @@ class Portfolio extends React.Component {
                         <h2 className="w-title">Augmented Reality Mobile Application</h2>
                         <div className="w-more">
                           <span className="w-ctegory">
-                            Project develope to operate on Android smartphones with the ability to translate in real time Hieroglyph in front of the camera...
+                            Project targeting Android systens with the ability to translate in real time Hieroglyph.
                           </span>
                           {/*} / <span className="w-date">18 Sep. 2018</span>*/}
                         </div>

@@ -1,6 +1,6 @@
 import React from "react";
 import { createFromIconfontCN, Html5Filled, DatabaseFilled } from '@ant-design/icons';
-import myImage from "../img/myImage.png";
+// import myImage from "../img/myImage.png";
 
 
 const IconFont = createFromIconfontCN({
